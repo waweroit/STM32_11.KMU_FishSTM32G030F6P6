@@ -1,0 +1,3 @@
+../Core/Src/USARTCommunication.c:14:6:InitUSART	8	static
+../Core/Src/USARTCommunication.c:48:19:Sendf	24	static
+../Core/Src/USARTCommunication.c:64:19:Send	8	static

@@ -1,0 +1,4 @@
+../Core/Src/USARTCommunication.c:14:6:InitUSART	1
+../Core/Src/USARTCommunication.c:25:26:Send_IT_internal	7
+../Core/Src/USARTCommunication.c:48:19:Sendf	4
+../Core/Src/USARTCommunication.c:64:19:Send	2

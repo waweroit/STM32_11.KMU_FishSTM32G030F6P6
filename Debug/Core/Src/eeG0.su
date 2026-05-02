@@ -1,0 +1,11 @@
+../Core/Src/eeG0.c:34:6:dump_ob_wrpa	40	static
+../Core/Src/eeG0.c:48:13:flash_clear_all_flags	16	static
+../Core/Src/eeG0.c:76:24:page_of_addr	16	static
+../Core/Src/eeG0.c:80:10:getHexAddressPage	24	static
+../Core/Src/eeG0.c:88:19:wait_flash_ready	32	static
+../Core/Src/eeG0.c:103:13:flash_dump_sr	24	static
+../Core/Src/eeG0.c:148:19:memoryPageErase	48	static,ignoring_inline_asm
+../Core/Src/eeG0.c:213:24:widen32	24	static
+../Core/Src/eeG0.c:215:19:writeThreeData	64	static
+../Core/Src/eeG0.c:246:10:retrieveDataFromAddress	16	static
+../Core/Src/eeG0.c:251:10:GetPage	24	static

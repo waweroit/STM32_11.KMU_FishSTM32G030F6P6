@@ -1,0 +1,11 @@
+../Core/Src/eeprom_G0.c:14:24:pack_record	1
+../Core/Src/eeprom_G0.c:23:24:rec_get_virt	1
+../Core/Src/eeprom_G0.c:28:24:rec_get_data	1
+../Core/Src/eeprom_G0.c:33:10:EE_Init	31
+../Core/Src/eeprom_G0.c:139:17:EE_VerifyPageFullyErased	4
+../Core/Src/eeprom_G0.c:152:10:EE_ReadVariable	5
+../Core/Src/eeprom_G0.c:172:10:EE_WriteVariable	2
+../Core/Src/eeprom_G0.c:181:26:EE_Format	3
+../Core/Src/eeprom_G0.c:201:17:EE_FindValidPage	6
+../Core/Src/eeprom_G0.c:221:17:EE_VerifyPageFullWriteVariable	6
+../Core/Src/eeprom_G0.c:244:17:EE_PageTransfer	12

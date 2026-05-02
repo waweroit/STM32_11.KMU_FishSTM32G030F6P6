@@ -1,0 +1,2 @@
+../Core/Src/waweroBasicFunction.c:12:6:DelayInit	8	static
+../Core/Src/waweroBasicFunction.c:17:6:DelayUS	16	static
