@@ -1,4 +1,4 @@
-#include "eeprom_g0.h"
+#include "eeprom_G0.h"
 
 
 /* --- Prototypy prywatne --- */
